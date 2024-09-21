@@ -1,0 +1,5 @@
+# Assignment 5 - Product catalogue
+
+*Problem statement*
+
+Develop a multi-page product catalogue for a fictional store. Create a home page with categories, and individual pages for each category and product. Use tables for product specifications, ordered and unordered lists for features, and implement proper semantic structure throughout. Include a search form and a contact form with various input types and form validation attributes.
